@@ -1,5 +1,5 @@
 # SGPA-Calculator
-A Web based calculator which let VTU students to calculate their SGPA easily. visit -  https://dilipraj28.github.io/SGPA-Calculator/
+
 
 ## Description
 Calculating SGPA from random alphabetic grades is a cumbersome problem that each VTU student faces. This Project is an attempt to make it easy for VTU students to calculate SGPA  from their grades within a minutes. Currently one can calculate SGPA for 1st Year grades but we plan to extend it for all the years.

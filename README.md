@@ -10,12 +10,12 @@ Select your branch category and then enters your grade you got in respective sub
 ## Screenshots
 
 - #### Select your category
-![Home Page - Select Category](/screenshot/home1.png?raw=true "Select your category")
+![Home Page - Select Category](/screenshot/home2.png?raw=true "Select your category")
 
 - #### Enter Grades
-![Form Page - Enter Grades](/screenshot/form.png?raw=true "Enter Grades")
+![Form Page - Enter Grades](/screenshot/form1.png?raw=true "Enter Grades")
 
 - #### Result
-![Result Page - Calculated SGPA](/screenshot/result.png?raw=true "Result")
+![Result Page - Calculated SGPA](/screenshot/result1.png?raw=true "Result")
 
 

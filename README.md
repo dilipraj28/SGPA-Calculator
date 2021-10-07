@@ -14,10 +14,12 @@ Select your branch category and then enters your grade you got in respective sub
 
 
 * Enter the Grades(To know how we are converting the grades in to marks, visit -How it works page-)
+
 ![Form Page - Enter Grades](/screenshot/form1.png?raw=true "Enter Grades")
 
 
 * Result - The finial output your SGPA(Semester Grade Point Average).
+
 ![Result Page - Calculated SGPA](/screenshot/result1.png?raw=true "Result")
 
 ## Thankyou, hope you enjoy it !
